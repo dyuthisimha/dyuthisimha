@@ -6,11 +6,6 @@
 
 <div align="center">
 
-  <!-- Header Profile Banner Image -->
-  <img src="./profile_banner.jpg" alt="Computer Science Banner" width="100%" />
-
-  <br /><br />
-
   <!-- CS.exe - Status Dashboard -->
   <table align="center">
     <tr>
@@ -62,7 +57,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 ### 🔍 Domains & Focus
-`Data Structures & Algorithms` • `Software Development` • `Open Source` • `AI & RAG` • `AWS / Cloud` • `Cybersecurity`
+`Data Structures & Algorithms` • `Software Development` • `Open Source` • `AI & RAG` • `AWS / Cloud` 
 
 ---
 
