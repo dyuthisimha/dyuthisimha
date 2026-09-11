@@ -62,7 +62,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-## 🧩 LeetCode
+## 🧩 LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/dyuthisimha/">
@@ -77,16 +77,6 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 ---
 ## 📊 GitHub Stats
 <div align="center">
-  <!-- Zero-Downtime GitHub Action Metrics Dashboard -->
-  <a href="https://github.com/dyuthisimha">
-    <img src="./github-metrics.svg" alt="Dyuthi's GitHub Metrics" width="90%" />
-  </a>
-  <br /><br />
-  <!-- GitHub Profile Stats Card -->
-  <a href="https://github.com/dyuthisimha">
-    <img src="https://github-readme-stats.vercel.app/api?username=dyuthisimha&show_icons=true&rank_icon=github&hide_border=true" alt="Dyuthi's GitHub Profile Stats" />
-  </a>
-  <br /><br />
   <!-- Contribution Streak Stats Card -->
   <a href="https://github.com/dyuthisimha">
     <picture>
