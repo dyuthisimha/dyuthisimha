@@ -3,18 +3,6 @@
   DYUTHI | GITHUB PROFILE README
 ===================================================================
 -->
-
-<div align="center">
-
-  <!-- Dynamic Animated CS.exe Status Dashboard -->
-  <img src="./cs_status.svg" alt="CS.exe Status Dashboard" width="600" />
-
-</div>
-
-<br />
-
----
-
 ## 📌 About Me
 
 I'm a second-year Computer Science student interested in building software and understanding how things work beneath the surface.
@@ -22,6 +10,13 @@ I'm a second-year Computer Science student interested in building software and u
 Currently focusing on problem-solving, software development, open source, and AI. I enjoy turning ideas into projects, participating in hackathons, and learning through building. I've contributed through GSoC, hackathons, and student tech communities, and I'm working on strengthening my foundations.
 
 Still figuring out what I want to build. In the meantime, I'm building things.
+
+<div align="center">
+
+  <!-- Dynamic Animated CS.exe Status Dashboard -->
+  <img src="./cs_status.svg" alt="CS.exe Status Dashboard" width="600" />
+
+</div>
 
 ---
 
