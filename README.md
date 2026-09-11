@@ -3,6 +3,10 @@
   DYUTHI | GITHUB PROFILE README
 ===================================================================
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dyuthisimha/dyuthisimha/main/cs_status.svg?v=2" alt="Live status" width="100%" />
+</p>
+
 ## 📌 About Me
 
 I'm a second-year Computer Science student interested in building software and understanding how things work beneath the surface.
@@ -10,10 +14,6 @@ I'm a second-year Computer Science student interested in building software and u
 Currently focusing on problem-solving, software development, open source, and AI. I enjoy turning ideas into projects, participating in hackathons, and learning through building. I've contributed through GSoC, hackathons, and student tech communities, and I'm working on strengthening my foundations.
 
 Still figuring out what I want to build. In the meantime, I'm building things.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dyuthisimha/dyuthisimha/main/cs_status.svg?v=2" alt="Live status" width="100%" />
-</p>
 
 ---
 
