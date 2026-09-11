@@ -11,12 +11,9 @@ Currently focusing on problem-solving, software development, open source, and AI
 
 Still figuring out what I want to build. In the meantime, I'm building things.
 
-<div align="center">
-
-  <!-- Dynamic Animated CS.exe Status Dashboard -->
-  <img src="./cs_status.svg" alt="CS.exe Status Dashboard" width="600" />
-
-</div>
+<p align="center">
+  <img src="./cs_status.svg" alt="Live status" width="100%" />
+</p>
 
 ---
 
