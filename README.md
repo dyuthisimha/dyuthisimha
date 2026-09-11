@@ -15,7 +15,7 @@
 
 ---
 
-### 📌 About Me
+## 📌 About Me
 
 I'm a second-year Computer Science student interested in building software and understanding how things work beneath the surface.
 
@@ -25,15 +25,15 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-#### 🗣️ Languages
+### 🗣️ Languages
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 🧰 Tools, Frameworks & Libraries
+### 🧰 Tools, Frameworks & Libraries
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -44,12 +44,12 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-#### 🔍 Domains & Focus
+### 🔍 Domains & Focus
 `Data Structures & Algorithms` • `Software Development` • `Open Source` • `AI & RAG` • `AWS / Cloud` 
 
 ---
 
-### 👥 Positions & Community
+## 👥 Positions & Community
 
 * **Developer Student Clubs (DSC)** — *Event Coordinator*  
   Organizing technical workshops, coding sessions, and campus hackathons.
@@ -62,7 +62,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-### 🧩 LeetCode & Problem Solving
+## 🧩 LeetCode & Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/dyuthisimha/">
@@ -76,12 +76,13 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-### 📬 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-p-dyuthi-s-3638991b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyuthi.simha@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dyuthisimha/)
 
 </div>
 
