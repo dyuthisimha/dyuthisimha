@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 110" width="100%" role="img" aria-label="Live status terminal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 82" width="100%" role="img" aria-label="Live status terminal">
   <style>
     .card {
       fill: #0d1117;
@@ -81,41 +81,41 @@
   </style>
 
   <!-- Terminal window -->
-  <rect class="card" x="1" y="1" width="648" height="108" rx="10" />
+  <rect class="card" x="1" y="1" width="698" height="72" rx="10" />
 
   <!-- Title bar -->
-  <path class="tab" d="M11,1 H639 A10,10 0 0 1 649,11 V35 H1 V11 A10,10 0 0 1 11,1 Z" />
-  <line class="divider" x1="1" y1="35" x2="649" y2="35" />
+  <path class="tab" d="M11,1 H689 A10,10 0 0 1 699,11 V35 H1 V11 A10,10 0 0 1 11,1 Z" />
+  <line class="divider" x1="1" y1="35" x2="699" y2="35" />
 
   <circle class="dot-red" cx="22" cy="18" r="5" />
   <circle class="dot-yellow" cx="40" cy="18" r="5" />
   <circle class="dot-green" cx="58" cy="18" r="5" />
-  <text class="filename" x="325" y="22" text-anchor="middle">~/dyuthi/status.sh</text>
+  <text class="filename" x="350" y="22" text-anchor="middle">~/dyuthi/status.sh</text>
 
   <!-- Prompt -->
-  <text class="prompt" x="24" y="76">❯</text>
+  <text class="prompt" x="24" y="58">❯</text>
 
   <!-- Animated content lines -->
   <g class="status-1">
-    <text class="line-text" x="42" y="76">
+    <text class="line-text" x="42" y="58">
       <tspan class="label-building">⚡ building</tspan><tspan> — AI Personal Schedule Assistant (AWS AgentCore)</tspan>
     </text>
   </g>
 
   <g class="status-2">
-    <text class="line-text" x="42" y="76">
+    <text class="line-text" x="42" y="58">
       <tspan class="label-learning">📚 learning</tspan><tspan> — systems fundamentals, cloud &amp; full-stack</tspan>
     </text>
   </g>
 
   <g class="status-3">
-    <text class="line-text" x="42" y="76">
+    <text class="line-text" x="42" y="58">
       <tspan class="label-exploring">🔬 exploring</tspan><tspan> — RAG architectures, agent workflows &amp; CTFs</tspan>
     </text>
   </g>
 
   <g class="status-4">
-    <text class="line-text" x="42" y="76">
+    <text class="line-text" x="42" y="58">
       <tspan class="label-solving">🧩 solving</tspan><tspan> — data structures &amp; algorithms</tspan>
     </text>
   </g>
