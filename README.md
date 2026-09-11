@@ -12,7 +12,7 @@ Currently focusing on problem-solving, software development, open source, and AI
 Still figuring out what I want to build. In the meantime, I'm building things.
 
 <p align="center">
-  <img src="./cs_status.svg" alt="Live status" width="100%" />
+  <img src="https://raw.githubusercontent.com/dyuthisimha/dyuthisimha/main/cs_status.svg?v=2" alt="Live status" width="100%" />
 </p>
 
 ---
