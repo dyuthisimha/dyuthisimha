@@ -6,20 +6,13 @@
 
 <div align="center">
 
-  <!-- CS.exe - Status Dashboard -->
-  <table align="center">
-    <tr>
-      <td align="center"><b>🖥️ CS.exe — status: coding</b></td>
-    </tr>
-    <tr>
-      <td>
-        <code>⚡ BUILDING  :</code> AI Personal Schedule Assistant (AWS AgentCore)<br />
-        <code>📚 LEARNING  :</code> Systems Fundamentals, Cloud & Full-Stack<br />
-        <code>🔬 EXPLORING :</code> RAG Architectures, Agent Workflows & CTFs<br />
-        <code>🧩 SOLVING   :</code> Data Structures & Algorithms
-      </td>
-    </tr>
-  </table>
+  <!-- Header Profile Banner Image -->
+  <img src="./profile_banner.jpg" alt="Profile Banner" width="100%" />
+
+  <br /><br />
+
+  <!-- Dynamic Animated CS.exe Status Dashboard -->
+  <img src="./cs_status.svg" alt="CS.exe Status Dashboard" width="600" />
 
 </div>
 
@@ -27,25 +20,25 @@
 
 ---
 
-## 📌 About Me
+### 📌 About Me
 
 I'm a second-year Computer Science student interested in building software and understanding how things work beneath the surface.
 
 Currently focusing on problem solving, software development, open source, and AI. I enjoy turning ideas into projects, participating in hackathons, and learning through building. I've contributed through GSoC, hackathons, and student tech communities and I'm working on strengthening my foundations.
 
-Still figuring out what I want to build. In the meantime, I'm building things.
+*Still figuring out what I want to build. In the meantime, I'm building things.*
 
 ---
 
-## 💻 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-### 🗣️ Languages
+#### 🗣️ Languages
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 🧰 Tools, Frameworks & Libraries
+#### 🧰 Tools, Frameworks & Libraries
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -56,12 +49,12 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-### 🔍 Domains & Focus
-`Data Structures & Algorithms` • `Software Development` • `Open Source` • `AI & RAG` • `AWS / Cloud` 
+#### 🔍 Domains & Focus
+`Data Structures & Algorithms` • `Software Development` • `Open Source` • `AI & RAG` • `AWS / Cloud` • `Cybersecurity`
 
 ---
 
-## 👥 Positions & Community
+### 👥 Positions & Community
 
 * **Developer Student Clubs (DSC)** — *Event Coordinator*  
   Organizing technical workshops, coding sessions, and campus hackathons.
@@ -74,7 +67,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-## 🧩 LeetCode & Problem Solving
+### 🧩 LeetCode & Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/dyuthisimha/">
@@ -88,7 +81,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-## 📬 Let's Connect
+### 📬 Let's Connect
 
 <div align="center">
 

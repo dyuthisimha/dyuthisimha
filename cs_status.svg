@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 650 110" width="100%" height="110">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1.5;
+      rx: 8px;
+    }
+    .header-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #58a6ff;
+    }
+    .status-dot {
+      fill: #3fb950;
+    }
+    .divider {
+      stroke: #30363d;
+      stroke-width: 1;
+    }
+    .line-text {
+      font-family: 'Fira Code', 'Cascadia Code', 'Courier New', Courier, monospace;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #c9d1d9;
+    }
+    .label-building { fill: #3fb950; font-weight: 700; }
+    .label-learning { fill: #58a6ff; font-weight: 700; }
+    .label-exploring { fill: #d29922; font-weight: 700; }
+    .label-solving { fill: #bc8cff; font-weight: 700; }
+
+    .status-1 { animation: cycle1 12s infinite ease-in-out; }
+    .status-2 { animation: cycle2 12s infinite ease-in-out; }
+    .status-3 { animation: cycle3 12s infinite ease-in-out; }
+    .status-4 { animation: cycle4 12s infinite ease-in-out; }
+
+    @keyframes cycle1 {
+      0% { opacity: 0; transform: translateY(5px); }
+      4% { opacity: 1; transform: translateY(0px); }
+      21% { opacity: 1; transform: translateY(0px); }
+      25% { opacity: 0; transform: translateY(-5px); }
+      100% { opacity: 0; }
+    }
+    @keyframes cycle2 {
+      0%, 25% { opacity: 0; transform: translateY(5px); }
+      29% { opacity: 1; transform: translateY(0px); }
+      46% { opacity: 1; transform: translateY(0px); }
+      50% { opacity: 0; transform: translateY(-5px); }
+      100% { opacity: 0; }
+    }
+    @keyframes cycle3 {
+      0%, 50% { opacity: 0; transform: translateY(5px); }
+      54% { opacity: 1; transform: translateY(0px); }
+      71% { opacity: 1; transform: translateY(0px); }
+      75% { opacity: 0; transform: translateY(-5px); }
+      100% { opacity: 0; }
+    }
+    @keyframes cycle4 {
+      0%, 75% { opacity: 0; transform: translateY(5px); }
+      79% { opacity: 1; transform: translateY(0px); }
+      96% { opacity: 1; transform: translateY(0px); }
+      100% { opacity: 0; transform: translateY(-5px); }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .card { fill: #ffffff; stroke: #d0d7de; }
+      .header-text { fill: #0969da; }
+      .divider { stroke: #d0d7de; }
+      .line-text { fill: #24292f; }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect class="card" x="1" y="1" width="648" height="108" rx="8" />
+
+  <!-- Header Bar -->
+  <circle class="status-dot" cx="24" cy="24" r="5" />
+  <text class="header-text" x="38" y="28">CS.exe — status: coding</text>
+  <line class="divider" x1="1" y1="44" x2="649" y2="44" />
+
+  <!-- Animated Content Lines -->
+  <g class="status-1">
+    <text class="line-text" x="24" y="76">
+      <tspan class="label-building">⚡ BUILDING  :</tspan> AI Personal Schedule Assistant (AWS AgentCore)
+    </text>
+  </g>
+
+  <g class="status-2">
+    <text class="line-text" x="24" y="76">
+      <tspan class="label-learning">📚 LEARNING  :</tspan> Systems Fundamentals, Cloud &amp; Full-Stack
+    </text>
+  </g>
+
+  <g class="status-3">
+    <text class="line-text" x="24" y="76">
+      <tspan class="label-exploring">🔬 EXPLORING :</tspan> RAG Architectures, Agent Workflows &amp; CTFs
+    </text>
+  </g>
+
+  <g class="status-4">
+    <text class="line-text" x="24" y="76">
+      <tspan class="label-solving">🧩 SOLVING   :</tspan> Data Structures &amp; Algorithms
+    </text>
+  </g>
+</svg>
