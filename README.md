@@ -62,7 +62,7 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 
 ---
 
-## 🧩 LeetCode & Problem Solving
+## 🧩 LeetCode
 
 <div align="center">
   <a href="https://leetcode.com/u/dyuthisimha/">
@@ -72,6 +72,20 @@ Still figuring out what I want to build. In the meantime, I'm building things.
       <img src="https://leetcode-stats-six.vercel.app/dyuthisimha?theme=dark" alt="Dyuthi's LeetCode Profile Stats" width="450" />
     </picture>
   </a>
+</div>
+
+---
+## 📊 GitHub Stats
+<div align="center">
+  <!-- Zero-Downtime GitHub Action Metrics Dashboard -->
+  <img src="./github-metrics.svg" alt="Dyuthi's GitHub Metrics" width="90%" />
+  <br /><br />
+  <!-- Contribution Streak Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=dark&hide_border=true" alt="Dyuthi's GitHub Streak" />
+  </picture>
 </div>
 
 ---
