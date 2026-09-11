@@ -78,14 +78,23 @@ Still figuring out what I want to build. In the meantime, I'm building things.
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Zero-Downtime GitHub Action Metrics Dashboard -->
-  <img src="./github-metrics.svg" alt="Dyuthi's GitHub Metrics" width="90%" />
+  <a href="https://github.com/dyuthisimha">
+    <img src="./github-metrics.svg" alt="Dyuthi's GitHub Metrics" width="90%" />
+  </a>
+  <br /><br />
+  <!-- GitHub Profile Stats Card -->
+  <a href="https://github.com/dyuthisimha">
+    <img src="https://github-readme-stats.vercel.app/api?username=dyuthisimha&show_icons=true&rank_icon=github&hide_border=true" alt="Dyuthi's GitHub Profile Stats" />
+  </a>
   <br /><br />
   <!-- Contribution Streak Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyuthisimha&theme=dark&hide_border=true" alt="Dyuthi's GitHub Streak" />
-  </picture>
+  <a href="https://github.com/dyuthisimha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dyuthisimha&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dyuthisimha&theme=default&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=dyuthisimha&theme=dark&hide_border=true" alt="Dyuthi's GitHub Streak" />
+    </picture>
+  </a>
 </div>
 
 ---
